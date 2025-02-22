@@ -42,6 +42,11 @@ li {
 #header li {
     margin-left: 30px;
 }
+#header li　a {
+    color:black;
+    text-decoration:none;
+}
+
 
 .mainvisual img {
     width: 100%;
