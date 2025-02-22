@@ -42,7 +42,8 @@ li {
 #header li {
     margin-left: 30px;
 }
-nav li　a {
+
+#header ul li a {
     color:black;
     text-decoration:none;
 }
